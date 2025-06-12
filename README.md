@@ -44,9 +44,4 @@ To run this project, ensure that you have Python installed. Follow the steps bel
 #### For loop
 
     for (num i = 1, i > 4, i++)
-  
-## Collaborators
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+    
